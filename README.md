@@ -14,6 +14,6 @@ Este repositório reúne algumas soluções para desafios das plataformas [Codew
 ├── 📂 hackerRank/
 │   ├── desafio_3.js
 │   └── desafio_4.js
-├── .eslintrc.json
+├── eslint.config.mjs
 ├── .package.json
 └── README.md
